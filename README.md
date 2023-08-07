@@ -1,4 +1,4 @@
-# Bookworm-app-CoreData
+# Bookworm-App-CoreData
 This app uses Core Data to persist data locally.
 ---
 The app shows books on a list screen. Users can add books to the book list and then quit the app. When users open the app again, the list keeps the same content as the user left.
